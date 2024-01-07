@@ -1,2 +1,2 @@
-# primeiros-passos
+# primeiros-passosqa
 Primeiros passos para QA 
